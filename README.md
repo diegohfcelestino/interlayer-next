@@ -9,6 +9,8 @@ No primeiro dia conhecemos os conceitos por trás de um front-end SPA, os princi
 
 Segundo dia aprendemos o que é Next.js e quando utilizar no desenvolvimento de aplicações React. E também criamos nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios.
 
+No terceiro dia realizamos uma separação da aplicação em componentes menores e aplicamos o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela. Finalizamos também a funcionalidade de desafios.
+
 
 No decorrer da semana vou atualizando e explicando melhor.
 
