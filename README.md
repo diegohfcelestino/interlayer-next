@@ -11,8 +11,10 @@ Segundo dia aprendemos o que é Next.js e quando utilizar no desenvolvimento de 
 
 No terceiro dia realizamos uma separação da aplicação em componentes menores e aplicamos o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela. Finalizamos também a funcionalidade de desafios.
 
+Na quarta aula continuamos evoluindo nossa aplicação, aprendemos ainda mais sobre a Context API, e aprendemos a como utilizar as notificações e sons do navegador para melhorar a experiência do usuário.
 
-No decorrer da semana vou atualizando e explicando melhor.
+
+Faltando apenas um dia para finalizar a aplicação.
 
 # Autor
 Feito com amor e dedicação por **Diego Henrique Ferreira** Entre em contato!
