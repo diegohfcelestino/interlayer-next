@@ -2,8 +2,8 @@
   Interlayer-next - Semana NLW na Trilha ReactJS da RocketSeat
 </h2>
 
-<h3 align-"center>
-Sobre
+<h3 align-"center">
+  Sobre
 </h3>
 
 <h4 align="center">
