@@ -1,9 +1,20 @@
-# Interlayer-next - semana NLW - Trilha ReactJS
+<h2 align="center">
+  Interlayer-next - Semana NLW na Trilha ReactJS da RocketSeat
+</h2>
 
-# Sobre
-Projeto está sendo desenvolvido na semana NLW da RocketSeat, uma semana inteira com treinamento totalmente gratuito na trilha de ReackJS.
+<h3 align-"center>
+Sobre
+</h3>
 
-Uma aplicação baseada em desafio, onde tem o contador (tempo) e o desafio em si.
+<h4 align="center">
+  Projeto desenvolvido durante a 4° edição do evento Next Level Week (NLW) feito totalmente gratuito na trilha de ReackJ pela <a href="https://app.rocketseat.com.br/dashboard">Rocketseat</a>
+</h4>
+
+## :dart: O que é o Interlayer-next?
+
+O Interlayer-next é uma plataforma para organizar períodos de foco em uma tarefa específica utilizando a técnica de pomodoro, ou seja, focar em uma tarefa por um determinado tempo e fazer uma pausa por um determinado tempo, a plataforma está utilizando a gamificação onde a cada período de tempo completado o usuário receberá um desafio que se consisti em praticar algum exercício físico para praticar em seu tempo de pausa, além disso com base se o usuário completou o período de tempo ou não ele irá ganhar uma quantidade de experiência para avançar para os próximos níveis.
+<br/>
+
 
 No primeiro dia conhecemos os conceitos por trás de um front-end SPA, os principais fundamentos do React como componentes, propriedades, estado e ferramentas que funcionam por trás da biblioteca como Webpack e Babel. Além disso, daremos início ao desenvolvimento da aplicação move.it, criando a estrutura básica de componentes da página
 
@@ -15,6 +26,28 @@ Na quarta aula continuamos evoluindo nossa aplicação, aprendemos ainda mais so
 
 
 Faltando apenas um dia para finalizar a aplicação.
+
+## :rainbow: Tecnologias usadas nessa aplicação
+
+-  [Typescript](https://www.typescriptlang.org/)
+-  [React.js](https://pt-br.reactjs.org/)
+-  [Next.js](https://nextjs.org/)
+
+## :tada: Como executar
+
+```bash
+# Faça o clone deste repositório para qualquer pasta de sua preferencia
+$ git clone https://github.com/AlexBitar80/moveit moveit-web
+
+# Vá até essa pasta
+$ cd moveit-web
+
+# rode esses comandos para instalar as dependências
+$ yarn || npm install
+
+# use esses comandos para rodar o Projeto
+$ yarn dev || npm run dev
+```
 
 # Autor
 Feito com amor e dedicação por **Diego Henrique Ferreira** Entre em contato!
