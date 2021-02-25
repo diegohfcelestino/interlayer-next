@@ -37,13 +37,13 @@ Faltando apenas um dia para finalizar a aplicação.
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
-$ git clone https://github.com/AlexBitar80/moveit moveit-web
+$ git clone https://github.com/diegohfcelestino/interlayer-next
 
 # Vá até essa pasta
-$ cd moveit-web
+$ cd interlayer-next
 
-# rode esses comandos para instalar as dependências
-$ yarn || npm install
+# rode esses comandos para instalar as dependências (lembrando que deverá ter o node instalado em sua máquina)
+$ yarn install || npm install
 
 # use esses comandos para rodar o Projeto
 $ yarn dev || npm run dev
