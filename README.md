@@ -25,7 +25,6 @@ No terceiro dia realizamos uma separação da aplicação em componentes menores
 Na quarta aula continuamos evoluindo nossa aplicação, aprendemos ainda mais sobre a Context API, e aprendemos a como utilizar as notificações e sons do navegador para melhorar a experiência do usuário.
 
 
-Faltando apenas um dia para finalizar a aplicação.
 
 ## :rainbow: Tecnologias usadas nessa aplicação
 
